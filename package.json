@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradtraversy/devconnector.git"
+    "url": "git+https://github.com/akashleo/devconnector.git"
   },
   "bugs": {
-    "url": "https://github.com/bradtraversy/devconnector/issues"
+    "url": "https://github.com/akashleo/devconnector/issues"
   },
-  "homepage": "https://github.com/bradtraversy/devconnector#readme"
+  "homepage": "https://github.com/akashleo/devconnector#readme"
 }
